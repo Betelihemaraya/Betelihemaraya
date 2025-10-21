@@ -12,7 +12,7 @@ That experience strengthened my skills in UI development, teamwork, and real-wor
 - Artificial Intelligence & Data Science  
 - Machine Learning & Predictive Analytics  
 - Web Development (MERN Stack)  
-- Software Engineering for Social Impact  
+- Software Engineering for Social Impact
 
 ---
 
